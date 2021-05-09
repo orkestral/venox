@@ -1,0 +1,30 @@
+{
+  "name": "venox",
+  "version": "1.0.0",
+  "description": "Push all modules Whatsapp Web",
+  "main": "venox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "./venox.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orkestral/venox.git"
+  },
+  "keywords": [
+    "webpack",
+    "module",
+    "research",
+    "extraction",
+    "venom-bot"
+  ],
+  "files": [
+    "venox.js"
+  ],
+  "author": "Joe Dutra <joe@orkestral.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orkestral/venox/issues"
+  },
+  "homepage": "https://github.com/orkestral/venox#readme"
+}
